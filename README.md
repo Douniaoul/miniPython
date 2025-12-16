@@ -16,8 +16,10 @@ lexicale et syntaxique, ainsi que la documentation d'un langage.
 ```bash
 git clone https://github.com/Douniaoul/miniPython.git
 cd minipython
-py minipython.py
+python parser.py tp5.minipython
+
 
 ### auteurs :
-oulhaci dounia
-touala hadjer 
+oulhaci dounia ing4
+touala hadjer ing 4 eme
+
